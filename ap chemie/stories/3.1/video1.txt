@@ -1,0 +1,309 @@
+3.1
+
+
+
+t - the hell is an intramolecular force and an intermolecular force... dont remember him mentioning this in class
+
+
+
+q - intramolecular forces is the interaction with a single molecule,, like a covalent, ionic, metallic bonds... aaaaaaaand intermolecular forces is the interaction between two different forces. u can remember this because intra means "within" like bonds WITHIN a molecule and inter means "between" like bonds BETWEEN a molecule.
+
+
+
+t - aaaaaaaaaaaaaaaaaaaahh okay yeah... um. so the rest of this worksheet is only talking about intermolecular forces...
+
+
+
+q - oh huh yeah i guess so
+
+
+
+t - alright
+
+
+
+q - intermolecular forces also stands for IMF btw and uuhhh theyre formed cuz of partial negative and positive charges... theyre coulombic forces but really weak
+
+
+
+t - um yeah okay
+
+
+
+q - you know what coulombic forces are right?
+
+
+
+t - yes???
+
+
+
+q - theyre basically the forces in that dumb formula ur teacher keeps showing u.. where the like charges repel while the opposite charges attract one another yada yada basically hwo all intermolecular forces work with partial positive and negative ends of molecules
+
+
+
+t - bro how come u never believe me
+
+
+
+q - cuz u always be lyin
+
+
+
+t - what??
+
+
+
+q - whatre dipole-dipole interactions
+
+
+
+t - idk ur supposed to teach me
+
+
+
+q - eugh he literally went over this too
+
+
+
+t - whatever
+
+
+
+q - theyre interactions between two polar molecules.. they can either be attracted or repulsed from one another and so these molecules orient themselves to maximize eachothers attraction and the strength between molecules in dipole-dipole are determined with the magnitude of the dipole.
+
+
+
+t - ....
+
+
+
+q - assuming u dont know what a dipole is--
+
+
+
+t - bruh
+
+
+
+q - a dipole is a molecule that has two ends with opposite partial charges like one end is slightly negative while the other is slightly positive..........
+
+an example: water,, where oxygen attracts electrons more strongly, making the electrons spend more time near oxygen, making the oxygen in H2O slightly negative while the hydrogen parts become slightly positive.
+
+
+
+t - then how the fuck can a dipole have a magnitude
+
+
+
+q - basically its just how big the separation between the positive and negative charges are.... determined by how much the charges are separated and how far apart the positive and negative ends are
+
+and you've heard of a dipole moment before, and thats just the measurement of the magnitude / strength of a dipole
+
+
+
+t - gotcha.,, alright next question i guess... induced dipole... what is it
+
+
+
+q - its a temporary dipole that is made once electrons in an atom / molecule get shifted around by a nearby charge or dipole... when something nearby causes electrons to move unevenly, partial charges are created
+
+
+
+like uhhh a nonpolar molecule where electrons are distributed evenly and so there is no permanent dipole. but when a nearby polar molecule approaches it, its partial charges either attract or repel the electrons in the nonpolar molecule, causing the electron cloud of the nonpolar molecule to shift so that one side becomes slightly negative and the other becomes slightly positive and so an induced dipole is formed!!!!!!!!!
+
+
+
+unlike a normal dipole, which usually exists naturally in polar molecules, this one is only created once a molecule is affected by another molecule
+
+
+
+got all that?
+
+
+
+t - yup... jeez this is a lot
+
+
+
+q - thats just chemistry for you
+
+
+
+t - guess so.. next: what causes two nonpolar molecules to interact?
+
+
+
+q - oh thats just London dispersion forces...electrons can fluctuate in nonpolar molecules, causing electrons to end up on one side of a molecule more than the other--
+
+
+
+t - but earlier you said that electrons stay distributed evenly
+
+
+
+q - i KNOW, BUT by random CHANCE, and since electrons are constantly moving, it can happen were they all just move to one side. and so one side will have more electrons while the other has less, creating two poles with slightly different charges... this can cause nearby molecules to also have their poles temporarily change once they start becoming affected by the temporary charge of the first molecule and yes this is an induced dipole and since the charges are unevenly distributed, it becomes a bit polar too, temporarily
+
+
+
+AND SO, London dispersion forces are the attractions between temporary and induced dipoles
+
+
+
+btw all molecules have London dispersion forces, even tho nonpolar molecules rely on these forces more than polar molecules
+
+
+
+t - mmmmmmmmmggggggggggh u already know what im gonna ask next
+
+
+
+q - what?
+
+
+
+t - the question on the paper..
+
+
+
+q - "what determines the strength of the Londom dispersion forces (LDF)?" alright well the big thing is polarizability
+
+
+
+t - u said no big words :(
+
+
+
+q - lol. polarizability is how easily the electron cloud of an atom or molecule can be distorted, basically, how easily can the electrons shift around and create temporary dipoles.
+
+
+
+when a molecule has a smaller electron cloud, it has fewer electrons, therefore it is harder to distort, therefore, it has lower polarizability, and--
+
+
+
+t - --therefore it has weaker London dispersion forces
+
+
+
+q - yes! wow youre actually listening
+
+
+
+t - and so that would mean that a larger electron cloud would mean that london dispersion forces would be greater, yeah?
+
+
+
+q - you got it
+
+
+
+also, when molecules have stronger intermolecular forces, more heat energy would be needed to separate the molecules anddd... therefore..,,,,
+
+
+
+t - higher boiling point?
+
+
+
+q - yup.
+
+
+
+t - wait so, electron cloud? how do u determine the size of that
+
+
+
+q - easy. more electrons = larger electron cloud. and, get this, more electron shells. since ur dumb and probably have gotten this far without knowing what electron shells are,--
+
+
+
+t - not wrong about that one...
+
+
+
+q - -- by going down a period on the periodic table, atoms gain another electron shell, and more occupied shells means electrons extend farther away from the nucleus, creating a larger electron cloud
+
+
+
+wheres ur periodic table
+
+
+
+t - um...
+
+
+
+q - dude we're doing chem and u dont have ur periodic table out
+
+
+
+t - whoops
+
+
+
+q - okay well... you see fluorine. it has two occupied electron shells. go down a period. chlorine, it has 3 electron shells. go down a period--
+
+
+
+t - --bromine. it has 4 electron shells. iodne. 5 electron shells. and so iodine has a larger electron cloud than bromine, so iodine has stronger London dispersion forces
+
+
+
+q - yup!!! alright next, its more strength of London dispersion
+
+
+
+t - theres more than just the electron cloud? gosh dang it
+
+
+
+q - shape
+
+
+
+t - bro noooooooooo i dont have those memorized yet :((
+
+
+
+q - ya ik i haven't seen u studying them
+
+
+
+t - theyre all the same
+
+
+
+q - its okay cuz u dont really need to know the structure names u kinda just look at it. structures that are more linear looking have a greater surface area for possible contact with other molecules (like they can lie alongside eachother)
+
+
+
+t - awwwhh
+
+
+
+q - this means that more of their surfaces are close,, causing there to be a possibility of more London dispersion forces and more attractive interactions
+
+
+
+t - oohh thats hot
+
+
+
+q - while ball-shaped molecules dont really fit together well and can only touch in smaller regions
+
+
+
+t - ew whattttt .. rephrase pls
+
+
+
+q - not if it helps u remember it better
+
+
+
+ur usually only asked this when the molecules are the same and ur given two different ways the molecules are shaped
+
+
+
+this goes back to boiling point, where a more linear shape leads to stronger LDFs, leading to higher boiling point
